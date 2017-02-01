@@ -48,3 +48,8 @@ fkp.samsungcloudsolution.net
 ad.samsungadhub.com
 gld.samsungosp.com
 openapi.samsung.com
+samsung.images.dvbdata.com
+script.ioam.de
+configprd.samsungcloudsolution.net
+otnprd9.samsungcloudsolution.net 
+
