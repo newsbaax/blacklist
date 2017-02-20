@@ -6,7 +6,6 @@ r20.sn-vgqs7ne7.googlevideo.com
 r1.sn-vgqsen7z.googlevideo.com
 r17---sn-vgqsenes.googlevideo.com
 r2---sn-vgqs7n7k.googlevideo.com
-clients6.google.com
 r1---sn-vgqsen7z.googlevideo.com
 r20---sn-vgqs7ne7.googlevideo.com
 www.ecdinterface.philips.com
