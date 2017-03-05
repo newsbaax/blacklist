@@ -55,8 +55,8 @@ script.ioam.de
 configprd.samsungcloudsolution.net
 otnprd9.samsungcloudsolution.net
 #test
-r15---sn-vgqsene6.googlevideo.com
-r20---sn-vgqs7n7z.googlevideo.com
+r15---sn-vgqsene6.googlevideo.com"
+r20---sn-vgqs7n7z.googlevideo.com"
 r1.sn-1gi7zn7s.googlevideo.com
 r1.sn-4g5e6n7r.googlevideo.com
 r1.sn-4g5edn7y.googlevideo.com
@@ -199,3 +199,4 @@ r6---sn-a5mekned.googlevideo.com
 r6---sn-a5meknek.googlevideo.com
 r6---sn-h557snl6.googlevideo.com
 r6---sn-ogueln7d.googlevideo.com
+i9.ytimg.com
