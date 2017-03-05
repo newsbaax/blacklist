@@ -147,11 +147,11 @@ r1.sn-n0qqxoapo3-hnte.googlevideo.com
 r3.sn-n0qqxoapo3-hnte.googlevideo.com
 r3.sn-uxap5nvoxg5-ixhl.googlevideo.com
 r10.sn-npo7en7r.googlevideo.com
-r3.sn-4g5e6n7k.googlevideo.com
-r4.sn-4g5edne7.googlevideo.com
 r2.sn-jv2xauxaxjvh-jfce.googlevideo.com
 r2.sn-oxmua5txg-8pxe.googlevideo.com
 r3.sn-oxmua5txg-8pxl.googlevideo.com
 r4.sn-oxmua5txg-8pxl.googlevideo.com
 r5.sn-gvnuxaxjvh-bvwl.googlevideo.com
-
+r4---sn-4g57knzd.googlevideo.com
+r4---sn-4g5e6ne6.googlevideo.com
+r5---sn-4g5e6nlk.googlevideo.com
