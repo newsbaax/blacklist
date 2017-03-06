@@ -211,3 +211,9 @@ r13---sn-4g57kn6z.googlevideo.com
 r19---sn-4g57knll.googlevideo.com
 r5---sn-4g5e6nes.googlevideo.com
 r3---sn-o097znlr.googlevideo.com
+r3---sn-25ge7nes.googlevideo.com
+r3.sn-25ge7nes.googlevideo.com
+r5---sn-a5mlrn7z.googlevideo.com
+r5.sn-a5mlrn7z.googlevideo.com
+r5---sn-u2bpouxgoxu-hxaz.googlevideo.com
+r5.sn-u2bpouxgoxu-hxaz.googlevideo.com
