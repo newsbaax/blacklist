@@ -1,4 +1,6 @@
 #test
+0914.global.ssl.fastly.net
+ssl.2.damoh.curloc.com
 0112358.prxio.bid
 acr0.samsungcloudsolution.com
 ad.samsungadhub.com
