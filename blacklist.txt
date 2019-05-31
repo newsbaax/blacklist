@@ -61,6 +61,10 @@ www.samsungrm.net
 www.youtube-nocookie.com
 lcstg2.samsungcloudsolution.net
 dpu.samsungelectronics.com
+wideip-dlcdnets.isoi.asia
+cs956197766.wpc.psicdn.net
+track.iafov.com
+iafov.com
 #Test for YoutubeAds
 r2---sn-h0jeeney.googlevideo.com
 r4---sn-4g5e6n7d.googlevideo.com
@@ -186,5 +190,4 @@ r5---sn-5hne6n7l.googlevideo.com
 r4---sn-vgqsrn7d.googlevideo.com
 r4---sn-nx57ynll.googlevideo.com
 r1---sn-q4fl6n7s.googlevideo.com
-track.iafov.com
-iafov.com
+
