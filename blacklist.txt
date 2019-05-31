@@ -65,6 +65,20 @@ wideip-dlcdnets.isoi.asia
 cs956197766.wpc.psicdn.net
 track.iafov.com
 iafov.com
+bsv1.trendmicro.com
+fbsv2.trendmicro.com
+ntd-asus-2014b-en.fbs20.trendmicro.com
+gslb1.fbs.trendmicro.com.akadns.net
+rgom10-en.url.trendmicro.com
+trendmicro.com.edgesuite.net
+slb1.fbs.trendmicro.com.akadns.net
+activeupdate.trendmicro.co.jp
+backup21.url.trendmicro.com
+wrs.trendmicro.com
+e5110.dscd.akamaiedge.net
+dlcdnets.asus.com
+wideip-dlcdnets.isoi.asia
+dlcdnets-ds.asus.com.edgekey.net
 #Test for YoutubeAds
 r2---sn-h0jeeney.googlevideo.com
 r4---sn-4g5e6n7d.googlevideo.com
