@@ -76,7 +76,6 @@ activeupdate.trendmicro.co.jp
 backup21.url.trendmicro.com
 wrs.trendmicro.com
 e5110.dscd.akamaiedge.net
-dlcdnets.asus.com
 wideip-dlcdnets.isoi.asia
 dlcdnets-ds.asus.com.edgekey.net
 aae-sgsip001-1.asuscomm.com
