@@ -46,5 +46,13 @@ e5110.dscd.akamaiedge.net
 wideip-dlcdnets.isoi.asia
 dlcdnets-ds.asus.com.edgekey.net
 aae-sgsip001-1.asuscomm.com
-
+ytimg.l.google.com
+zrh11s02-in-f14.1e100.net
+zrh11s03-in-f14.1e100.net
+gld.push.samsungosp.com
+sarah.runtnc.net
+apps-pub.samsungcloudcdn.com
+www.quotationspage.com
+encrypted-tbn2.gstatic.com
+cct.connects.ch
 
